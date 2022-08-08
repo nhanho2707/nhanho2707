@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nhanho2707
 - 👀 I’m interested in Linux/Networking
 - 🌱 I’m currently learning Linux/Network/Programming
-<!- 💞️ I’m looking to collaborate on Amazon/Netflix/Google/Facebook --->
+<!--- 💞️ I’m looking to collaborate on Amazon/Netflix/Google/Facebook --->
 - 📫 How to reach me: nhanho2707@gmail.com
 
 <!---
